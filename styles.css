@@ -10,7 +10,7 @@
 }
 
 .question{
-	color:black bold;	
+	font-weight:bold;
 }
 #capital{
 	display:none;
